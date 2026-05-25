@@ -1,0 +1,21 @@
+[
+  {
+    "id": "RES-2605251039-73",
+    "dateCreation": "25 mai 2026 à 10:39",
+    "nom": "kyy",
+    "telephone": "235",
+    "date": "2222-02-22",
+    "heure": "23:02",
+    "table": "Table VIP 1",
+    "plats": [
+      "Ndolé Royal - 5000 FCFA",
+      "Poulet DG - 7000 FCFA",
+      "Eru  - 4000 FCFA",
+      "Poisson braisé - 6000 FCFA"
+    ],
+    "total": "22 000 FCFA",
+    "acompte": "11 000 FCFA",
+    "paiement": "Orange Money",
+    "statut": "Confirmée"
+  }
+]

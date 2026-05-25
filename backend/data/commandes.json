@@ -1,0 +1,19 @@
+[
+  {
+    "id": "CMD-2605251037-565",
+    "date": "25 mai 2026 à 10:37",
+    "plats": [
+      {
+        "name": "Ndolé Royal",
+        "price": 5000,
+        "img": "images/ndole.jpg",
+        "qty": 2
+      }
+    ],
+    "total": "9 000 FCFA",
+    "mode": "livraison",
+    "adresse": "baham",
+    "paiement": "Orange Money",
+    "statut": "Reçue"
+  }
+]
